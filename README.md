@@ -1,7 +1,7 @@
 .vim
 ====
 
-My vim dot files forked from [Jessie's .vim](https://github.com/jessfraz/.vim). the `.vimrc` file is saved to [vimrc](https://github.com/jessfraz/.vim/blob/master/vimrc).
+My vim dot files forked from [Jessie's .vim](https://github.com/jessfraz/.vim). the `.vimrc` file is saved to [vimrc](vimrc).
 
 Just run the following commands via terminal to get perfectly set up:
 

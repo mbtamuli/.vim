@@ -542,9 +542,9 @@ autocmd BufWritePre * StripWhitespace
 
 " ================= clang-format ==================
 
-map <C-K> :pyf /usr/share/vim/addons/syntax/clang-format-3.8.py<cr>
-imap <C-K> <c-o>:pyf /usr/share/vim/addons/syntax/clang-format-3.8.py<cr>
-autocmd BufWritePre *.cpp,*.hpp pyf /usr/share/vim/addons/syntax/clang-format-3.8.py
+" map <C-K> :pyf /usr/share/vim/addons/syntax/clang-format-3.8.py<cr>
+" imap <C-K> <c-o>:pyf /usr/share/vim/addons/syntax/clang-format-3.8.py<cr>
+" autocmd BufWritePre *.cpp,*.hpp pyf /usr/share/vim/addons/syntax/clang-format-3.8.py
 
 " =================== vim-airline ========================
 

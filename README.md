@@ -1,13 +1,13 @@
 .vim
 ====
 
-My vim dot files. the `.vimrc` file is saved to [vimrc](https://github.com/jessfraz/.vim/blob/master/vimrc).
+My vim dot files forked from [Jessie's .vim](https://github.com/jessfraz/.vim). the `.vimrc` file is saved to [vimrc](https://github.com/jessfraz/.vim/blob/master/vimrc).
 
 Just run the following commands via terminal to get perfectly set up:
 
 ```console
 $ cd ~/
-$ git clone --recursive https://github.com/jessfraz/.vim.git .vim
+$ git clone --recursive https://github.com/mbtamuli/.vim.git .vim
 $ ln -sf $HOME/.vim/vimrc $HOME/.vimrc
 $ cd $HOME/.vim
 $ git submodule update --init
@@ -49,3 +49,4 @@ Currently using version 2.2 of Pathogen
 * [github.com/mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara.git)
 * [fedorapeople.org/home/fedora/wwoods/public/vim-scripts.git](git://fedorapeople.org/home/fedora/wwoods/public_git/vim-scripts.git)
 * [github.com/cespare/vim-toml](https://github.com/cespare/vim-toml.git)
+* [github.com/hashivim/vim-terraform](https://github.com/hashivim/vim-terraform)

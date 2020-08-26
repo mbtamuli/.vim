@@ -7,7 +7,7 @@ Just run the following commands via terminal to get perfectly set up:
 
 ```console
 $ cd ~/
-$ git clone --recursive https://github.com/mbtamuli/.vim.git .vim
+$ git clone --recursive git@github.com:mbtamuli/.vim.git
 $ ln -sf $HOME/.vim/vimrc $HOME/.vimrc
 $ cd $HOME/.vim
 $ git submodule update --init
